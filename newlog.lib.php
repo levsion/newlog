@@ -1,4 +1,10 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: levsion
+ * Date: 2016/8/5
+ * Time: 2:56 PM
+ */
 
 /*
 外部定义常量，一般在频道下面的onload.config.php里面定义

@@ -1,3 +1,11 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: levsion
+ * Date: 2016/8/5
+ * Time: 2:56 PM
+ */
+
 //配置log常量
 if(IS_ONLINE_SERVER)
 {
